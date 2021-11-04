@@ -1,0 +1,20 @@
+.img{
+   
+    height: 500px;
+    background-image: url('../../img/averest-2.jpg');
+    background-position:center ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.post{
+ 
+    height: 500px;
+   align-items: center;
+   display: flex;
+   
+}
+.post h2{
+    font-weight: bold;
+    font-family: 'Baloo Bhai 2', cursive;
+}
